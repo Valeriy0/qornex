@@ -4,7 +4,7 @@ export const LeftBar = () => {
   const menuItem = [
     {
       title: 'Dashboard',
-      href: '/dashboard',
+      href: '/',
     },
     {
       title: 'Instrument',
